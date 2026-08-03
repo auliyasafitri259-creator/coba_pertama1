@@ -1,0 +1,14 @@
+menu mie :
+mie gacoan lvl 0-8
+mie hompimpa
+mie suit
+menu gorengan :
+udang keju
+udang rambutan
+pangsit goreng
+siomay ayam
+lumpia udang
+menu minuman segar :
+es gibak sodor
+es petak umpet
+dll
